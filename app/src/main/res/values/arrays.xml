@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="estados">
+        <item>CDMX</item>
+        <item>Aguas Calientes</item>
+        <item>Oaxaca</item>
+        <item>Guerrero</item>
+        <item>Veracruz</item>
+        <item>Puebla</item>
+    </string-array>
+</resources>
